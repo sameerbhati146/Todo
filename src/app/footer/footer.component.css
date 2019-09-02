@@ -1,0 +1,10 @@
+footer{
+    background-color: #222;
+    bottom: 0px;
+    color: aliceblue;
+    position: absolute;
+    width: 100%;
+}
+.container{
+    text-align: center;
+}
