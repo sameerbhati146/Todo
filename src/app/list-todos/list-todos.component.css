@@ -1,0 +1,14 @@
+.row{
+    float: right;
+    padding-right: 30px;
+}
+
+.head-left{
+    float: left;
+}
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+  
